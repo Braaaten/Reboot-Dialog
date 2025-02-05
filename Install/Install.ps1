@@ -3,7 +3,7 @@
 # By: Fredrik Rydin and copies of some function from PS Deployment Toolkit
 # Description: This script will install the needed binaries for reboot dialog program and will also start it if user is logged in.
 #              It will only start the process if the user singed in is following a domain user style (Domain\user)
-#
+# cat
 
 
 #region Function Execute-ProcessAsUser
